@@ -50,3 +50,4 @@ Some of the the AI powered tools available to perform OCR as below
 
 
 
+
