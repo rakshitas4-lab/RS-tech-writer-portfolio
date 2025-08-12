@@ -23,9 +23,9 @@ Brief explanation on OCR process
 
 Some of the the AI powered tools available to perform OCR as below
 
-1. Docparser [https://docparser.com/] (Link to use Docparser)
-2. Nanonets  [https://nanonets.com/] (Link to use Nanonets)
-3. Rossum [https://rossum.app/] (Link to use Rossum)
+1. Docparser [https://docparser.com/] (Link to use Docparser).
+2. Nanonets  [https://nanonets.com/] (Link to use Nanonets).
+3. Rossum [https://rossum.app/] (Link to use Rossum).
 
 
 ## Steps needed to implement OCR 
@@ -40,6 +40,7 @@ Some of the the AI powered tools available to perform OCR as below
 1. Document parsing does not occur for some of the fields in tool like Docparser.In such cases you can create support ticket and get the issue resolved.
 2. In some cases where the free trial is completed, you will no longer be able to use freely. You may have to subscribe to the plan.
 	
+
 
 
 
