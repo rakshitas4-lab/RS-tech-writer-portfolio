@@ -1,4 +1,4 @@
-#Optimal Character Recognition
+# Optimal Character Recognition
 
 Optimal Character Recognition (OCR) is a technology which converts an image of text into a machine readable format.
 It is like a digital copy machine that utilizes automation to transform a scanned document into machine readable PDF's that you can edit and share.
@@ -14,7 +14,7 @@ Brief explanation on OCR process
 
 
 
-##Prerequisities for OCR on PDF
+## Prerequisities for OCR on PDF
 
 1. A PDF document on which OCR needs to be applied.
 2. Any AI based open source tool which has free trial plans of doing the OCR.
@@ -28,7 +28,7 @@ Some of the the AI powered tools available to perform OCR as below
 3. Rossum [https://rossum.app/] ( Link to use Rossum)
 
 
-##Steps needed to implement OCR 
+## Steps needed to implement OCR 
 
 1. Sign up with your Business email to any of the above tool once you use the above link.
 2. Upload your pdf and follow the instructions.
@@ -40,6 +40,7 @@ Some of the the AI powered tools available to perform OCR as below
 1. Document parsing does not occur for some of the fields in tool like Docparser.In such cases you can create support ticket and get the issue resolved.
 2. In some cases where the free trial is completed, you will no longer be able to use freely. You may have to subscribe to the plan.
 	
+
 
 
 
