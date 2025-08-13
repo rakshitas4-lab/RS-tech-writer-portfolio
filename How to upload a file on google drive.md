@@ -1,3 +1,9 @@
+---
+layout: default
+title: How to upload a File to Google Drive
+---
+
+
 # How to Upload a File to Google Drive
 
 Google Drive is a cloud storage service that allows you to save files online and access them from any device.  
@@ -42,3 +48,4 @@ This guide explains how to upload a file using a web browser.
 ---
 
 **Last updated:** August 12, 2025
+
