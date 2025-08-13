@@ -1,3 +1,8 @@
+---
+layout: default
+title: OCR on PDF - User Guide
+---
+
 # Optical Character Recognition (OCR) on PDFs
 
 **Optical Character Recognition (OCR)** is a technology that converts an image of text into a machine-readable format.  
@@ -45,3 +50,4 @@ Here are some tools you can try:
 - If your free trial expires, you’ll need to subscribe to continue using the service.
 
 ---
+
