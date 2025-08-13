@@ -2,6 +2,7 @@
 
 Welcome to my technical writing portfolio!  
 This repository contains my sample technical documents, user guides, and tutorials created as part of my learning journey.
+![Portfolio Banner](banner.png)
 
 ## 🌐 Live Portfolio
 You can view my portfolio online here:  
