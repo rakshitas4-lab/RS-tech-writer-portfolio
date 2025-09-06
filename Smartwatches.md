@@ -37,8 +37,8 @@ Some models of smartwatches are equipped with sensors which tracks your footstep
  Some times charging can be an issue if the charger is of type __magnetic charger__. So do make sure it is aligned properly while charging. 
 
 
-
 ---
+
 
 
 
