@@ -13,6 +13,7 @@ You can view my portfolio online here:
 
 - [OCR on PDF - User Guide](OCR in pdf.md)
 - [How to Upload a File on Google Drive - User Guide](How to upload a file on google drive.md)
+- [Smartwatches guide](smartwatches.md)
 
 ## 📂 What You'll Find Here
 - `index.html` – Homepage for my portfolio
