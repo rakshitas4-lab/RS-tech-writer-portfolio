@@ -1,7 +1,7 @@
 # Smart watches
 
 Smartwatches of this era are widely accepted across the world by the people of all ages because of its functionality and smart features.
-Some models of smartwatches are equipped with sensors which tracks your footsteps, heartrate, oxygen and pulse rate. It sets your fitness goals and tracks your progress with the results.All you have to do is to connect your phone via bluetooth to access from the phone.
+Some models of smartwatches are equipped with sensors which tracks your __footsteps__, __heartrate__, __oxygen__ and __pulse rate__. It sets your fitness goals and tracks your progress with the results.All you have to do is to connect your phone via bluetooth to access from the phone.
 
 ---
 ## Key Features of Smartwatches
@@ -38,6 +38,7 @@ Some models of smartwatches are equipped with sensors which tracks your footstep
 
 
 ---
+
 
 
 
