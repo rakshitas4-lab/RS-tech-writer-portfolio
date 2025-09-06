@@ -34,10 +34,11 @@ Some models of smartwatches are equipped with sensors which tracks your footstep
 2. **Unable to pair with the phone**
  Even though Bluetooth is on, it may not be paired up with your phone. So make sure you got to disconnect with another device and then reconnect it.
 3. **Charging issues**
- Some times charging can be an issue if the charger is of magnetic charger sort. So do make sure it is aligned properly while charging. 
+ Some times charging can be an issue if the charger is of type __magnetic charger__. So do make sure it is aligned properly while charging. 
 
 
 
 ---
+
 
 
