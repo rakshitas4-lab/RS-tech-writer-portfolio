@@ -16,9 +16,9 @@ Some models of smartwatches are equipped with __sensors__ which tracks your __fo
 
 ## How to use smartwatches
 
-1. To setup your Smartwatch ,firstly you need to download the companion app on your smartphone (NoiseFit,Apple,Samsung etc depending on the brand).
-2. Turn on your bluetooth.
-3. Open the app and then tap pair device ,select watch from the list.
+1. To setup your Smartwatch , Firstly you need to download the companion app on your smartphone (NoiseFit,Apple,Samsung etc depending on the brand).
+2. Turn on your Bluetooth.
+3. Open the app and then tap pair device ,select your watch from the list.
 4. To make the calls, select phone or call Icon and dial the number.
 5. To listen to music go to music player and play the music of your choice.
 6. Whether it is about heart rate, pulse rate, walking every thing can be viewed through health menu by navigating to that option.
@@ -38,6 +38,7 @@ Some models of smartwatches are equipped with __sensors__ which tracks your __fo
 
 
 ---
+
 
 
 
