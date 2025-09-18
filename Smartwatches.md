@@ -6,10 +6,10 @@ Some models of smartwatches are equipped with __sensors__ which tracks your __fo
 ---
 ## Key Features of Smartwatches
 
-1) Smartphone calling through the watch.
-2) Quick Music access.
-3) Health monitoring.
-4) Fitness and wellness features.
+1. Smartphone calling through the watch.
+2. Quick Music access.
+3. Health monitoring.
+4. Fitness and wellness features.
 ---
 
 ---
@@ -38,6 +38,7 @@ Some models of smartwatches are equipped with __sensors__ which tracks your __fo
 
 
 ---
+
 
 
 
